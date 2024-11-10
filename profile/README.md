@@ -20,7 +20,7 @@ We welcome contributions from the community! Whether you're a developer, archivi
 🍿 **Fun Facts**
 
 - We believe archiving is an art, and every piece of content is a treasure.
-- Our team is fueled by coffee and a passion for preserving history!
+- Our team is fueled by cannabis and a passion for preserving history!
 
 🧙 **Join the Journey**
 
