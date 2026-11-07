@@ -14,11 +14,11 @@ This organization holds the website and the tools we use to keep the archive run
 - The website's player, search, lists, chat, and Live channel, with a separate WebSocket service for chat updates.
 - A C-based bulletin board system, a custom video player project, and earlier website code.
 
-Most repositories are private, so the public repository list doesn't show all of this work. Each repository's README has its own setup instructions and project details.
+All project repositories are private. If you have access, each repository's README has setup instructions and project details.
 
 ## Help out
 
-Developers, archivists, and fans are welcome. If you have repository access, open an issue or send a pull request. You can also join us on Discord to talk about the archive or ask where help is needed.
+Developers, archivists, and fans are welcome. Join us on Discord to talk about the archive or ask where help is needed. Contributors with repository access can open issues and send pull requests there.
 
 We think archiving takes care and patience, and that even the small bits are worth saving. Cannabis helps fuel the team, too.
 
