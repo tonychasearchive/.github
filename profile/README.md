@@ -1,27 +1,30 @@
-## Hi there
+# Tony Chase Archive
 
-Welcome to the **Tony Chase Archive Organization**!
+We collect, preserve, and share Tony Chase's videos, transcripts, and related material so fans and researchers can find and watch them.
 
-🙋‍♀️ **Who We Are**
+The archive lives at [tonychasearchive.com](http://tonychasearchive.com). You can browse videos, search titles and transcripts for words or exact phrases, save favorites, make video lists, and leave ratings and comments. There's also a 24/7 Live channel and separate archive and Live chat rooms. Videos with completed caption tracks have synchronized English captions.
 
-We're dedicated to collecting, preserving, and sharing the works of Tony Chase. Our mission is to ensure that Tony's content remains accessible to enthusiasts and researchers alike by maintaining a comprehensive archive of his videos, transcripts, and related projects.
+## Behind the archive
 
-🌈 **Get Involved**
+This organization holds the website and the tools we use to keep the archive running:
 
-We welcome contributions from the community! Whether you're a developer, archivist, or a fan, there's a place for you here. Feel free to explore our repositories, open issues, submit pull requests, or join our discussions.
+- Video download and upload scripts that save Tony's YouTube videos to object storage.
+- Transcription tools built around Whisper and WhisperX, plus scripts that upload transcripts and import them into the search database.
+- Recovery tools that check the video archive against the transcript database and process missing entries.
+- The website's player, search, lists, chat, and Live channel, with a separate WebSocket service for chat updates.
+- A C-based bulletin board system, a custom video player project, and earlier website code.
 
-👩‍💻 **Useful Resources**
+Most repositories are private, so the public repository list doesn't show all of this work. Each repository's README has its own setup instructions and project details.
 
-- **Website**: [tonychasearchive.com](http://tonychasearchive.com)
-- **Wiki**: [Tony Chase Wiki](http://wiki.tonychasearchive.com/index.php/Main_Page)
-- **Discord**: [Join our Discord Server](https://discord.gg/beW5rY5Qrj)
-- **Documentation**: Check out the README files in our repositories for detailed setup instructions and project information.
+## Help out
 
-🍿 **Fun Facts**
+Developers, archivists, and fans are welcome. If you have repository access, open an issue or send a pull request. You can also join us on Discord to talk about the archive or ask where help is needed.
 
-- We believe archiving is an art, and every piece of content is a treasure.
-- Our team is fueled by cannabis and a passion for preserving history!
+We think archiving takes care and patience, and that even the small bits are worth saving. Cannabis helps fuel the team, too.
 
-🧙 **Join the Journey**
+## Links
 
-Remember, you can do mighty things with the power of collaboration and open-source. We're excited to have you here and can't wait to see what we can achieve together!
+- [Browse the archive](http://tonychasearchive.com)
+- [Tony Chase Wiki](http://wiki.tonychasearchive.com/index.php/Main_Page)
+- [Join the Discord](https://discord.gg/beW5rY5Qrj)
+- [YouTube](https://www.youtube.com/@TonyChaseArchive)
